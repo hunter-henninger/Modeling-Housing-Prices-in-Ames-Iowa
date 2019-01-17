@@ -11,11 +11,11 @@ The study begins with a data cleaning process to handle missing data and outlier
 
 
 ## Contents:
-#### Data Cleaning _01
-#### Preprocessing and EDA _02
-#### Model Benchmarks _03
-#### Model Tuning and Predictions _04
-#### Model Insights _05
+- [01_Data Cleaning](./01_Data_Cleaning.ipynb)
+- [02_Preprocessing and EDA](./02_Preprocessing_and_EDA.ipynb)
+- [03_Model Benchmarks](./03_Model_Benchmarks.ipynb)
+- [04_Model Tuning and Predictions](./04_Model_Tuning_and_Predictions.ipynb)
+- [05_Model Insights](./05_Model_Insights.ipynb)
 
 ## Data Dictionary
 Link to Data Description below:
