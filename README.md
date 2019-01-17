@@ -20,7 +20,7 @@ The study begins with a data cleaning process to handle missing data and outlier
 ## Data Dictionary
 Link to Data Description below:
 
-[data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt)
+[Data Description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt)
 
 ## Conclusions and Recommendations
 
